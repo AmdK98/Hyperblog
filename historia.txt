@@ -1,3 +1,6 @@
 Prueba de Git
 
-Platzi, estoy aprendiendo y buscando otras opciones
+Platzi, estoy aprendiendo y buscando nuevas opciones
+
+Hay que aprender nuevas herramientas
+
